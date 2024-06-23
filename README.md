@@ -7,6 +7,8 @@ When a user uploads the product image and chooses their location, a request will
 
 An emoji representing the product image will be choosen from the emojiCut folder and sent together with the category to the user.
 
+After that the emoji will be attached to the map embedded in the mobile app, showing that a user in this location wants to sell a product or give it for free.
+
 
 To get more info about this project have a look at this LinkedIn post:
 
